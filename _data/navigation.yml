@@ -26,6 +26,9 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
+  - title: "skills"
+    url: /skills/    
+    
   - title: "CV"
     url: /cv/
     
