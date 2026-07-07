@@ -12,4 +12,4 @@ In this phase of my career, maintenance became a proactive strategy rather than 
 
 True leadership, however, meant empowering the hands on the ground while optimizing the systems in the background. Out in the field, i spearheaded technical teams, driving them to hit aggressive monthly network improvement targets.
 
-Meanwhile, behind the scenes, you attacked the inefficiencies of legacy utility management. The resulting data-driven optimizations didn't just stabilize the voltage—they directly accelerated DPDC’s service revenue growth. Today, i continue to bridge the gap between heavy infrastructure and modern data analytics, ensuring Dhaka's grid is not just powerful, but smart.
+Meanwhile, behind the scenes, i attacked the inefficiencies of legacy utility management. The resulting data-driven optimizations didn't just stabilize the voltage—they directly accelerated DPDC’s service revenue growth. Today, i continue to bridge the gap between heavy infrastructure and modern data analytics, ensuring Dhaka's grid is not just powerful, but smart.
