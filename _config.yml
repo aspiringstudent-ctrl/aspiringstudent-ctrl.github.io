@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Junaid Hossain / Assistant Engineer"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Assistant Engineer"
 title_separator          : "-"
 name                     : &name "Junaid Hossain"
 description              : &description "Junaid's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,7 +27,7 @@ author:
   name             : "Junaid Hossain"
   pronouns         : "he/him"# example: "she/her"  
   bio              : "Simple and Complex in either ways"
-  location         : "Earth"
+  location         : "Dhaka, Bangladesh"
   employer         : "DPDC"
   uri              : # URL
   email            : "junaid.hossain@dpdc.gov.bd" 
@@ -221,23 +221,23 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  skills:
     output: true
     permalink: /:collection/:path/
-  publications:
+  projects:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  experiences:
     output: true
     permalink: /:collection/:path/
-  talks:
+  interests:
     output: true
     permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
+ # _posts
   - scope:
       path: ""
       type: posts
@@ -248,46 +248,46 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+ # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _skills
   - scope:
       path: ""
-      type: teaching
+      type: skills
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  #  _projects
   - scope:
       path: ""
-      type: publications
+      type: projects
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _experiences
   - scope:
       path: ""
-      type: portfolio
+      type: experiences
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+ #  _interests
   - scope:
       path: ""
-      type: talks
+      type: interests
     values:
-      layout: talk
+      layout: interest
       author_profile: true
       share: true
 
