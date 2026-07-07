@@ -3,7 +3,7 @@ title: "Untangling Matarbari"
 collection: experience
 type: "experience"
 permalink: /experiences/cpgcbl
-date: 2018-2019
+date: 2018-07-18
 location: "Matarbari, Coxs-bazar"
 ---
 The mid-day heat in Matarbari was relentless, but inside the makeshift office, the real pressure was humming from the server racks and stack of land deeds. It was late 2018. The Coal Power Generation Company Bangladesh Ltd. (CPGCBL) project was moving fast, and with it came a massive logistical challenge: thousands of families, acres of shifting boundaries, and a ledger of over 52,000 stakeholders waiting for compensation.
