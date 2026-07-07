@@ -11,11 +11,14 @@ main:
   - title: "projects"
     url: /projects/
 
-  - title: "misc"
-    url: /misc/    
-
-  - title: "learning"
-    url: /learning/    
+  - title: "experiences"
+    url: /experiences/   
+    
+  - title: "interests"
+    url: /interests/ 
+    
+  - title: "research-paper-read"
+    url: /research-paper-read/    
     
   - title: "Portfolio"
     url: /portfolio/
