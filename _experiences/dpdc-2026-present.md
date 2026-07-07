@@ -3,7 +3,7 @@ title: "Command of the Urban Grid"
 collection: experiences
 type: "experiences"
 permalink: /experiences/dpdc-2026-present
-date: 2026-present
+date: 2026-3-30
 location: "Dhaka, Bangladesh"
 ---
 By 2026, the modern energy landscape of Dhaka demanded a new level of leadership. The conversation was no longer just about keeping up with the city's growth—it was about driving systemic efficiency and technological transformation. Stepping into my current role at DPDC, i took command of a vital energy artery, directly managing three major 11 kV feeders and their low-voltage networks to secure uninterrupted power for over 15,000 citizens and businesses.
