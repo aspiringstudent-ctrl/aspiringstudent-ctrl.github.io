@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: ""
 permalink: /
-layout: single
+layout: home
 author_profile: true
 ---
 
