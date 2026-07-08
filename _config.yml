@@ -224,13 +224,13 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
-  experience:
+  experiences:
     output: true
     permalink: /:collection/:path/
-  research:
+  interests:
     output: true
     permalink: /:collection/:path/
-  papernotes:
+  reseach-paper-read:
     output: true
     permalink: /:collection/:path/
   publications:
