@@ -230,7 +230,7 @@ collections:
   interests:
     output: true
     permalink: /:collection/:path/
-  reseach-paper-read:
+  research-paper-read:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -257,15 +257,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _skills
-  - scope:
-      path: ""
-      type: skills
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   #  _projects
   - scope:
       path: ""
@@ -275,16 +266,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _experience
+  # _experiences
   - scope:
       path: ""
-      type: experience
+      type: experiences
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
- #  _Research
+ #  _interests
   - scope:
       path: ""
       type: interests
@@ -292,7 +283,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  #  _PaperNotes
+  #  _research-paper-read
   - scope:
       path: ""
       type: research-paper-read
@@ -300,7 +291,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-  #  _Publications
+  #  _publications
   - scope:
       path: ""
       type: publications
