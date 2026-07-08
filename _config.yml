@@ -233,8 +233,13 @@ collections:
   interests:
     output: true
     permalink: /:collection/:path/
-
-
+  research-paper-read:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+    
 # These settings control how pages and collections are included in the site
 defaults:
  # _posts
@@ -290,8 +295,23 @@ defaults:
       layout: single
       author_profile: true
       share: true
-
-
+  #  _research-paper-read
+  - scope:
+      path: ""
+      type: research-paper-read
+    values:
+      layout: single
+      author_profile: true
+      share: true
+  #  _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
