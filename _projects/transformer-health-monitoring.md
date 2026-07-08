@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Transformer Health Monitoring and Predictive Maintenance"
 excerpt: "Data-driven condition monitoring and predictive maintenance of power transformers using statistical analysis and machine learning."
@@ -125,4 +124,3 @@ Future research directions include:
 - Digital twins for transformer asset management
 - Deep learning using multi-sensor monitoring data
 - Integration with utility-wide asset management platforms
-```
