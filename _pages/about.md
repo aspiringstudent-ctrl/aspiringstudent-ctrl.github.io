@@ -1,7 +1,7 @@
 ---
 title: ""
 permalink: /
-layout: splash
+layout: default
 author_profile: true
 ---
 
