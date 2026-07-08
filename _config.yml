@@ -239,6 +239,8 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  portfolio:
+    output: true    
     
 # These settings control how pages and collections are included in the site
 defaults:
