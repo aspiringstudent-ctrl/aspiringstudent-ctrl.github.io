@@ -1,4 +1,3 @@
-```markdown id="i2xttq"
 ---
 title: "Technical Skills"
 permalink: /skills/
@@ -91,4 +90,3 @@ I am continuously expanding my expertise in AI-enabled power and energy systems,
 - Physics-Informed Machine Learning
 - Cyber-Physical Energy Systems
 - Large Language Models for Engineering Applications
-```
