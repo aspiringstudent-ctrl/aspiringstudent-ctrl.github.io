@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Research Paper Notes"
+permalink: /research-paper-read/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.research-paper-read reversed %}
+  {% include archive-single.html %}
+{% endfor %}
