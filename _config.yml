@@ -287,7 +287,7 @@ defaults:
  #  _Research
   - scope:
       path: ""
-      type: research
+      type: interests
     values:
       layout: single
       author_profile: true
@@ -295,7 +295,7 @@ defaults:
   #  _PaperNotes
   - scope:
       path: ""
-      type: papernotes
+      type: research-paper-read
     values:
       layout: single
       author_profile: true
